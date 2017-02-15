@@ -1,0 +1,2 @@
+# Patron-Singleton
+Ejemplo sencillo
